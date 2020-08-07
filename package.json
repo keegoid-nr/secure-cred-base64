@@ -1,0 +1,15 @@
+{
+  "name": "secure-cred-base64",
+  "version": "1.0.0",
+  "description": "Testing atob for secure credential use of cert",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Keegan Mullaney",
+  "license": "Apache License Version 2.0",
+  "dependencies": {
+    "atob": "^2.1.2"
+  }
+}
